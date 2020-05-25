@@ -1,0 +1,2 @@
+docker image build -t python_test .
+docker container run -t python_test
